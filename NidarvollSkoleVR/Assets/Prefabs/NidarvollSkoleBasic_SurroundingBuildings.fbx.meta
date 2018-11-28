@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: e2c76042b71c24a94a05cdcdacfb082f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '3D View: {3D}'
+    100002: group1
+    100004: NidarvollSkole
+    100006: //RootNode
+    100008: Skole1
+    100010: Skole2
+    100012: Skur
+    100014: Skur2
+    100016: Skur3
+    100018: Skur5
+    100020: Skur6
+    100022: Skur7
+    100024: Skur8
+    100026: Trapp
+    400000: '3D View: {3D}'
+    400002: group1
+    400004: NidarvollSkole
+    400006: //RootNode
+    400008: Skole1
+    400010: Skole2
+    400012: Skur
+    400014: Skur2
+    400016: Skur3
+    400018: Skur5
+    400020: Skur6
+    400022: Skur7
+    400024: Skur8
+    400026: Trapp
+    2000000: '3D View: {3D}'
+    2100000: lambert1
+    2300000: NidarvollSkole
+    2300002: Skole1
+    2300004: Skole2
+    2300006: Skur
+    2300008: Skur2
+    2300010: Skur3
+    2300012: Skur5
+    2300014: Skur6
+    2300016: Skur7
+    2300018: Skur8
+    2300020: Trapp
+    3300000: NidarvollSkole
+    3300002: Skole1
+    3300004: Skole2
+    3300006: Skur
+    3300008: Skur2
+    3300010: Skur3
+    3300012: Skur5
+    3300014: Skur6
+    3300016: Skur7
+    3300018: Skur8
+    3300020: Trapp
+    4300000: Skur
+    4300002: Skur5
+    4300004: Skur2
+    4300006: Skur6
+    4300008: Skur8
+    4300010: NidarvollSkole
+    4300012: Trapp
+    4300014: Skur3
+    4300016: Skur7
+    4300018: Skole2
+    4300020: Skole1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
