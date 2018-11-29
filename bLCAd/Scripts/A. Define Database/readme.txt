@@ -1,0 +1,1 @@
+run all scripts in this folder to set up the database
