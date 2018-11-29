@@ -1,0 +1,3 @@
+After all buildings are inserted I should reorganize as well as update the code in these queries and add new queries.
+
+The organization I have now is not good.
