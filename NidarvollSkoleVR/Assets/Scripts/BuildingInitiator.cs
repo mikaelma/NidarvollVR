@@ -14,7 +14,7 @@ public class BuildingInitiator : MonoBehaviour {
     private void Start()
     {
         buildingNameGameObject = GameObject.Find("BuildingName");
-        SetBuildingName();
+        //SetBuildingName();
     }
 
     private void SetBuildingName(){
