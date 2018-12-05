@@ -38,7 +38,11 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
+<<<<<<< HEAD:NidarvollSkoleVR/Assets/Scenes/SampleScene.unity
   m_IndirectSpecularColor: {r: 0.44932693, g: 0.4993993, b: 0.57570547, a: 1}
+=======
+  m_IndirectSpecularColor: {r: 0.44932687, g: 0.4993992, b: 0.575708, a: 1}
+>>>>>>> b081f79461ca3eb93466e80adec97235f85c43a5:NidarvollSkoleVR/Assets/Scenes/MainScene.unity
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2121,6 +2125,7 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 295189162}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD:NidarvollSkoleVR/Assets/Scenes/SampleScene.unity
 --- !u!1001 &303809445
 Prefab:
   m_ObjectHideFlags: 0
@@ -2251,6 +2256,8 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1cf45646df364475aad25274dd78d572, type: 3}
   m_IsPrefabAsset: 0
+=======
+>>>>>>> b081f79461ca3eb93466e80adec97235f85c43a5:NidarvollSkoleVR/Assets/Scenes/MainScene.unity
 --- !u!1001 &333053164
 Prefab:
   m_ObjectHideFlags: 0
@@ -12304,6 +12311,78 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1961615621}
   m_Mesh: {fileID: 4300010, guid: c0c8d72678e5149108f0c632ab142016, type: 3}
+--- !u!1001 &1961676989
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4284797493869616, guid: 892cada9b65364d318051b904abe13df, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 4.0331717
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284797493869616, guid: 892cada9b65364d318051b904abe13df, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 4.789875
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284797493869616, guid: 892cada9b65364d318051b904abe13df, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -15.985176
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284797493869616, guid: 892cada9b65364d318051b904abe13df, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284797493869616, guid: 892cada9b65364d318051b904abe13df, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284797493869616, guid: 892cada9b65364d318051b904abe13df, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284797493869616, guid: 892cada9b65364d318051b904abe13df, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4284797493869616, guid: 892cada9b65364d318051b904abe13df, type: 2}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 33505646427117286, guid: 892cada9b65364d318051b904abe13df,
+        type: 2}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 33912840197592328, guid: 892cada9b65364d318051b904abe13df,
+        type: 2}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 114635406828638950, guid: 892cada9b65364d318051b904abe13df,
+        type: 2}
+      propertyPath: m_havePropertiesChanged
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114635406828638950, guid: 892cada9b65364d318051b904abe13df,
+        type: 2}
+      propertyPath: m_isInputParsingRequired
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114294018110089526, guid: 892cada9b65364d318051b904abe13df,
+        type: 2}
+      propertyPath: m_havePropertiesChanged
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114294018110089526, guid: 892cada9b65364d318051b904abe13df,
+        type: 2}
+      propertyPath: m_isInputParsingRequired
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 892cada9b65364d318051b904abe13df, type: 2}
+  m_IsPrefabAsset: 0
 --- !u!1 &1970623573
 GameObject:
   m_ObjectHideFlags: 0
